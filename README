@@ -1,0 +1,11 @@
+
+DESCRIPTION:
+
+Django web based file validator for anti-virus purposes. Its like having an automated sysadmin verifying files.
+
+Uses nmap/bro scans and other novel methods for determining whether a file is malicious. These tools are for network analysis purposes. The output from the scans of these tools was used to create the file validation powered by AI.
+
+Also incorporates data from p0f a TCP/IP a passive traffic fingerprinting tool to further determine whether a file is a virus or hiding something malicious. 
+
+-Remarks by 
+Pr.diction And Profits Deep Learning Engineer 
